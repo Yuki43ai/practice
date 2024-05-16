@@ -1,0 +1,9 @@
+master:
+
+develop:
+
+feature branches:
+
+hotfixes:
+
+release branches:
